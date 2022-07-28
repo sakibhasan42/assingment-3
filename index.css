@@ -22,3 +22,15 @@
 .another {
     margin-right: 250px;
 }
+
+footer {
+    height: 350px;
+    width: 1400px;
+    background-color: rgb(17, 17, 17);
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
