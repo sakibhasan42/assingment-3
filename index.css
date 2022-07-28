@@ -29,8 +29,8 @@ footer {
     background-color: rgb(17, 17, 17);
 }
 
-@media (min-width: 1200px) {
-    .container {
-        max-width: 970px;
-    }
+
+.main-con {
+    width: 1200px;
+    height: 350px;
 }
